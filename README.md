@@ -1,6 +1,6 @@
-## Aprendizados do Projeto
+## O que foi estudado
 
-Este projeto abrangeu habilidades essenciais para manipulação e integração de dados, incluindo:
+Este estudo abrangeu habilidades essenciais para manipulação e integração de dados, incluindo:
 
 - Compreensão e uso de arquivos nos formatos CSV, XLSX, JSON, HTML e XML  
 - Trabalho com diferentes tipos de dados em operações de entrada e saída (input/output)  
